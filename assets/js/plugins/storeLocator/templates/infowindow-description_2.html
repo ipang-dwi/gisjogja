@@ -1,0 +1,19 @@
+{{#location}}
+<center>
+<table width="350" align="center">
+<tr><td class="loc-name" align="center">{{event}}</td></tr>
+<tr><td align="center">
+<a data-fancybox="gallery" href="admin/assets/uploads/pics/event/{{pic}}" data-caption="{{wisata}}"><img src="admin/assets/uploads/pics/event/{{pic}}" width="75" height="75"></a><tr><td align="center">Alamat</td></tr>
+<tr><td align="center">{{alamat}}</td></tr>
+<tr><td align="center">{{keterangan}}</td></tr>
+<tr><td align="center">
+{{#if distance}}
+	<div class="loc-dist loc-default-dist">{{distance}} {{length}}</div>
+{{#if altdistance}}<div class="loc-dist loc-alt-dist">{{altdistance}} {{altlength}}</div>{{/if}}
+	<div class="loc-directions"><a href="https://maps.google.com/maps?saddr={{origin}}&amp;daddr={{alamat}}" target="_blank">Petunjuk Arah</a></div>
+{{/if}}
+</td></tr>
+</table>
+</center>
+<div><a href="{{web}}" target="_blank">{{niceURL web}}</a></div>
+{{/location}}

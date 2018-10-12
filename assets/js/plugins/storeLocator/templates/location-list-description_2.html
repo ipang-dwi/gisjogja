@@ -1,0 +1,17 @@
+{{#location}}
+<li data-markerid="{{markerid}}">
+	<div class="list-label">{{marker}}</div>
+	<div class="list-details">
+		<div class="list-content">
+			<div class="loc-name">{{event}}</div>
+			<div class="loc-addr">{{alamat}}</div>
+			<div class="loc-addr">{{jenis}}</div>
+			{{#if distance}}
+				<div class="loc-dist loc-default-dist">{{distance}} {{length}}</div>
+				{{#if altdistance}}<div class="loc-dist loc-alt-dist">{{altdistance}} {{altlength}}</div>{{/if}}
+				<div class="loc-directions"><a href="https://maps.google.com/maps?saddr={{origin}}&amp;daddr={{alamat}}" target="_blank">Petunjuk Arah</a></div>
+			{{/if}}
+		</div>
+	</div>
+</li>
+{{/location}}
