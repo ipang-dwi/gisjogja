@@ -38,7 +38,7 @@ Sangat cocok untuk dipelajari dan dikembangkan lagi. Terutama bagi yang ingin me
 
 > Aplikasi ini opensource namun bukan freeware. Silahkan WA ke o856 48587 856, untuk melakukan donasi. Bagi yang belum memiliki akun GCP, akan dipandu hingga bisa terverifikasi.
 
-Feel free o reach me on :
+Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
 - admin@firstplato.com
