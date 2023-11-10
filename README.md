@@ -1,6 +1,6 @@
 # gisjogja
 
-<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
+<img src="https://img.shields.io/badge/any_text-you_like-blue" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
 GISJOGJA - aplikasi web based sistem informasi geografis (SIG) / GIS wisata kota JOGJA - www.firstplato.com
 
