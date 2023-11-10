@@ -1,6 +1,6 @@
 # gisjogja
 
-<img src="https://img.shields.io/badge/project_codename-spbe-blue" /> <img src="https://img.shields.io/badge/lab-bidang_tki_diskominfo_sidoarjo-green" /> <img src="https://img.shields.io/badge/developer-diskominfo_ranger-yellow" /> 
+<img src="https://img.shields.io/badge/project_codename-spbe-blue" /> <img src="https://img.shields.io/badge/developer-diskominfo_ranger-red" /> <img src="https://img.shields.io/badge/lab-bidang_tki_diskominfo_sidoarjo-green" /> <img src="https://img.shields.io/badge/version-1.0.a-magenta" /> 
 
 GISJOGJA - aplikasi web based sistem informasi geografis (SIG) / GIS wisata kota JOGJA - www.firstplato.com
 
